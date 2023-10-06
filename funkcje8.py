@@ -1,0 +1,1 @@
+def allparams(a, b, /, c=42)
